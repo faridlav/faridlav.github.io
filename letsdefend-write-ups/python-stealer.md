@@ -4,7 +4,7 @@ description: May 5th, 2024
 
 # Python Stealer
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Link: [https://app.letsdefend.io/challenge/python-stealer](https://app.letsdefend.io/challenge/python-stealer)
 
@@ -23,7 +23,7 @@ In Python, functions are declared with the `def` keyword. The second function in
 * `except:`  - If an error occurs within the `try` block, the code within the `except` block is executed.&#x20;
 * `return "Error"` - This returns the string value `"Error"` to the function caller.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Answer: CryptUnprotectData**
 
@@ -33,7 +33,7 @@ In Python, functions are declared with the `def` keyword. The second function in
 
 The answer to this question is in the same line of code as the previous one. The encryption mode is specified in the `AES.new()` function call. It utilizes the Galois/Counter Mode (GCM) for symmetric-key block ciphers.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Answer: GCM**
 
@@ -43,7 +43,7 @@ The answer to this question is in the same line of code as the previous one. The
 
 This question requires a quick scan of the code. Look for keywords like "author," "made," "written," etc. Also, pay attention to string literal values enclosed in double quotes.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Answer: Astraa**
 
@@ -53,7 +53,7 @@ This question requires a quick scan of the code. Look for keywords like "author,
 
 Similar to the previous question, scan the code and focus on string literal values enclosed in double quotes. Also, search for relevant keywords such as "User," "Agent," "Mozilla," "Chrome," and "Gecko."
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Answer: Mozilla/5.0 (X11; Linux x86\_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11**
 
