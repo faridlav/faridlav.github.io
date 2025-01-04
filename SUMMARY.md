@@ -13,4 +13,7 @@
 * [Intro to Blue Team](hack-the-box/intro-to-blue-team/README.md)
   * [🛡️ Persistence](hack-the-box/intro-to-blue-team/persistence.md)
   * [🛡️ Event Horizon](hack-the-box/intro-to-blue-team/event-horizon.md)
-* [Page](hack-the-box/page.md)
+
+## CyberDefenders Write Ups
+
+* [DanaBot Lab](cyberdefenders-write-ups/danabot-lab.md)
